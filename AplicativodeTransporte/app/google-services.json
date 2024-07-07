@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712815958573",
+    "project_id": "aplicativo-de-transporte-95fe8",
+    "storage_bucket": "aplicativo-de-transporte-95fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712815958573:android:ebad4026452e88147836a4",
+        "android_client_info": {
+          "package_name": "com.ryancodedev.aplicativodetransporte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAJN7X9bLI7_ivt-iQ6ZW1rGKpyCk2JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

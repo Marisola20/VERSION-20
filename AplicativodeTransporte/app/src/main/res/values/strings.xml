@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlueyBus</string>
+    <string-array name="paraderos">
+        <item>Av. México</item>
+        <item>Covida</item>
+        <item>Yanbal</item>
+    </string-array>
+    <string-array name="destinos">
+        <item>Av. Brasil</item>
+        <item>Izaguirre</item>
+        <item>Universitaria</item>
+    </string-array>
+    <string name="description">imagebuttondescription</string>
+</resources>
